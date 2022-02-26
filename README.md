@@ -1,5 +1,5 @@
 # Ena_Extractor
 
-to run the code
+To run the code
 
-`python3 script.py [project number]
+`python3 script.py [project number]`
